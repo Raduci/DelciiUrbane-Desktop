@@ -42,7 +42,7 @@ Delicii Urbane este o aplicație desktop dezvoltată cu **Java** și **JavaFX**,
 Clonează acest depozit Git în sistemul tău local:
 
 ```sh
-git clone https://github.com/username/delicii-urbane.git
+git clone https://github.com/Raduci/DelciiUrbane-Desktop.git
 cd delicii-urbane
 ```
 
@@ -172,4 +172,4 @@ src/
 
 ## Contact
 
-Pentru orice întrebări sau sugestii, vă rugăm să contactați echipa de dezvoltare la [radustefan.gr@icloud.com](mailto:radustefan.gr@icloud.com).
+Pentru orice întrebări sau sugestii, vă rugăm să contactați echipa de dezvoltare la [radustefan.tene@gmail.com](mailto:radustefan.tene@gmail.com).
