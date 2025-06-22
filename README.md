@@ -119,7 +119,7 @@ public class DBConnector {
     public static final String USER = "root";
     public static final String PASSWORD = ""; // Parola implicită pentru XAMPP root este goală
 
-    // ... restul codului pentru gestionarea conexiunii ...
+    // ... restul codului pentru gestionarea conexiunii din fisierul DBConnector.java ...
 }
 ```
 
